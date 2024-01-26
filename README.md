@@ -6,7 +6,7 @@ Originally created in **November 2021**.
 
 
 Another entry to my list of spaceship-related games.  
-I wanted to make a more bullet hell oriented game here.
+I wanted to make a more bullet hell oriented game here (in the most recent demo build uploaded to here I just gave the enemy a bunch of random weapons).
 
 ---
 
